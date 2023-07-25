@@ -1,2 +1,2 @@
 # Warung Kopi
-> Simple E-Commerce
+> A simple E-Commerce
