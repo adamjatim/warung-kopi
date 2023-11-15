@@ -1,0 +1,10 @@
+2023-11-01 11:51:20.240 [info] Extension host with pid 7635 started
+2023-11-01 11:51:20.240 [info] Skipping acquiring lock for /opt/lampp/htdocs/psi_pak_isa/User/workspaceStorage/6c306636814ab0692f29d6799eb6b001.
+2023-11-01 11:51:20.361 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-01 11:51:20.387 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-01 11:51:20.466 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-01 11:51:20.621 [info] Eager extensions activated
+2023-11-01 11:51:20.709 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 11:51:20.717 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-01 11:52:45.445 [info] Extension host terminating: renderer closed the MessagePort
+2023-11-01 11:52:45.509 [info] Extension host with pid 7635 exiting with code 0
